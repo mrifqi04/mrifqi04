@@ -4,14 +4,9 @@
 <h2> 🔗 My Github Stats </h2>
 <hr>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mrifqi04&hide=stars,contribs&count_private=true&show_icons=true&bg_color=30,eb1f6a,ae81ff&title_color=fff&text_color=fff&icon_color=fff" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrifqi04&layout=compact&bg_color=30,ae81ff,eb1f6a&title_color=fff&text_color=fff&icon_color=fff" />
-</a>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrifqi04&layout=compact&bg_color=30,ae81ff,eb1f6a&title_color=fff&text_color=fff&icon_color=fff)
 
-.
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrifqi04&hide=stars,contribs&count_private=true&show_icons=true&bg_color=30,eb1f6a,ae81ff&title_color=fff&text_color=fff&icon_color=fff)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mrifqi04&theme=monokai)
 
